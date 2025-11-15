@@ -1,80 +1,143 @@
-# 🎯 **Flutter Developer | Cross-Platform App Specialist**
+# 💫 Flutter Developer | Cross-Platform App Specialist
 
-![Flutter Animation Banner](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+<div align="center">
 
----
+![Flutter Developer](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
 
-## 👋 Hello, I'm **Muhammad Nouman**
+## 🚀 **Muhammad Nouman**
 
-I’m a results-driven **Flutter Developer** with a love for creating seamless, high-performance apps that run beautifully on **Android, iOS, and the Web**. Whether it's **e-commerce**, **AI**, **file recovery**, or **spiritual tools**, I develop solutions that are efficient, scalable, and elegant.
+**Building Beautiful, High-Performance Apps with Flutter & Dart**
 
-From deep recovery logic to advanced PDF handling and real-time Firebase integrations — I code with clarity and passion. 💙
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8A2BE2?style=for-the-badge)](https://www.google.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6D00?style=for-the-badge)](mailto:m.nouman5710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](#)
 
----
-
-## 🛠️ **Tech Stack & Expertise**
-
-| 💡 Skillset              | 🔧 Tools & Frameworks                                     |
-|--------------------------|-----------------------------------------------------------|
-| 📱 **Flutter & Dart**     | Flutter SDK, Dart CLI, Isolates, Null Safety              |
-| 📦 **State Management**   | Provider, Bloc, GetX, Riverpod                            |
-| 🔌 **Backend & Firebase** | Firebase (Auth, Firestore, Cloud Functions), REST, GraphQL|
-| 🎨 **UI/UX & Animations** | Rive, Lottie, Hero, Custom Paint, Cupertino, Material     |
-| 🧪 **Testing**            | Unit Testing, Widget Testing, Integration Testing         |
-| 🚀 **CI/CD & Dev Tools**  | GitHub Actions, Fastlane, VS Code, Android Studio         |
-| 🖌️ **Design Tools**       | Figma, Canva, Adobe XD                                    |
+</div>
 
 ---
 
-## 📲 **Featured Projects**
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+### 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-nouman&show_icons=true&theme=radical&hide_border=true)
+
+### 🔥 **Contribution Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=m-nouman&theme=radical&hide_border=true)
+
+### 💻 **Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-nouman&layout=compact&theme=radical&hide_border=true)
+
+### 📊 **Activity Graph**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-nouman&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🛠 **Tech Stack & Expertise**
+
+### **🚀 Core Technologies**
+```dart
+class FlutterDeveloper {
+  final Map<String, List<String>> skills = {
+    'Frontend': ['Flutter', 'Dart', 'Material Design', 'Cupertino'],
+    'State Management': ['Provider', 'Bloc', 'GetX', 'Riverpod'],
+    'Backend': ['Firebase', 'REST API', 'GraphQL', 'Node.js'],
+    'Database': ['Firestore', 'SQLite', 'Hive', 'Shared Preferences'],
+    'DevOps': ['GitHub Actions', 'Fastlane', 'CI/CD'],
+    'Testing': ['Unit Testing', 'Widget Testing', 'Integration Testing'],
+  };
+}
+```
+
+### **📊 Technology Proficiency**
+
+| **Technology** | **Level** | **Use Case** |
+|----------------|-----------|--------------|
+| **Flutter** | Expert | Cross-platform mobile development |
+| **Dart** | Expert | Backend & mobile logic |
+| **Firebase** | Advanced | Authentication & real-time data |
+| **REST APIs** | Advanced | Third-party integrations |
+| **SQLite** | Intermediate | Local data persistence |
+| **Git** | Advanced | Version control & collaboration |
+
+---
+
+## 🎯 **Featured Projects**
 
 ### 🔄 **Old File Scan Recovery**
-Recover deleted files and hidden storage data using advanced deep scanning logic.
+Advanced file recovery application with deep scanning capabilities
+- **Tech**: Flutter, Dart, Android Native APIs
+- **Features**: Deep file scanning, recovery algorithms, secure storage
+- **Status**: Active Development
 
-### 💬 **NexChatPDF**
-Chat with PDFs using AI! Powered by vector embeddings and NLP for document intelligence.
+### 💬 **NexChatPDF - AI PDF Assistant** 
+AI-powered PDF conversation and analysis tool
+- **Tech**: Flutter, Gemini AI, Firebase, PDF Processing
+- **Features**: AI chat, document analysis, real-time responses
+- **Status**: Completed
 
 ### 🧾 **Quick PDFs, IMG Converter**
-All-in-one app for converting images to PDFs, compressing files, and extracting images.  
+Multi-format file conversion and processing application
+- **Tech**: Flutter, Image Processing, PDF Generation
+- **Features**: Format conversion, compression, batch processing
+- **Status**: Completed
 
 ### 📿 **Islamic Tasbeeh Counter**
-Digital counter for zikr with prebuilt Darood options, auto tracking, and spiritual features.
-
-### 🛒 **Easy Shop App**
-A sleek, fast Flutter-powered eCommerce platform with real-time product listings and cart management.
-
-### ⚡ **ABS Electric Store App**
-Online store app for electronics – integrated with cart, categories, and responsive design.
+Digital spiritual counter with advanced tracking features
+- **Tech**: Flutter, Local Storage, Custom Animations
+- **Features**: Zikr counting, progress tracking, spiritual reminders
+- **Status**: Published
 
 ---
 
-## 🌟 **What Makes Me Stand Out**
+## 🌟 **Development Focus**
 
-✔ Pixel-perfect UI with meaningful animations  
-✔ Clean, maintainable architecture  
-✔ Deep experience with Firebase & native features  
-✔ Strong problem-solving mindset  
-✔ Optimized apps ready for deployment
+### **🎯 Current Priorities**
+- Enhancing file recovery algorithms
+- Integrating advanced AI capabilities
+- Improving app performance and optimization
+- Expanding cross-platform compatibility
 
----
-
-## 🤝 **Let’s Connect**
-
-- 🔗 [GitHub](#)  
-- 💼 [LinkedIn](#)  
-- 🌍 [Portfolio / Website](#https://www.google.com)  
-- 📧 m.nouman5710@gmail.com
+### **📚 Continuous Learning**
+- Advanced Flutter animations and custom painters
+- Machine learning integration in mobile apps
+- Native platform channel development
+- Performance optimization techniques
 
 ---
 
-## 🔍 **Currently Open To**
+## 🤝 **Let's Connect**
 
-🚀 Flutter Dev Roles – Remote or Hybrid  
-🛠️ Freelance App Development  
-🧠 Technical Writing, Mentoring, or Open Source Contributions
+<div align="center">
+
+### **📞 Get In Touch**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-8A2BE2?style=for-the-badge)](https://www.google.com)
+[![Email](https://img.shields.io/badge/📧_Email-m.nouman5710@gmail.com-FF6D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.nouman5710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+### **🔍 Open For Opportunities**
+
+- 🚀 Flutter Developer Roles (Remote/Hybrid)
+- 🛠️ Freelance App Development Projects
+- 🌟 Open Source Contributions
+- 💡 Technical Collaborations
+
+</div>
 
 ---
 
-> *"Code is poetry, and great apps are symphonies of logic and design."*
+<div align="center">
 
-![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer)
+## 💙 **"Crafting Exceptional Mobile Experiences with Flutter"**
+
+**Let's build something amazing together!**
+
+</div>
